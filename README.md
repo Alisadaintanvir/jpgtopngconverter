@@ -15,7 +15,7 @@ This is a simple Python script for converting images from one format to another 
 3. Run the script by providing the input folder and output folder as arguments:
 `python image_converter.py input_folder output_folder`
 
-Replace image_converter.py with the name of your script, input_folder with the path to the folder containing input images, and output_folder with the path to the folder where the converted images will be saved.
+  Replace image_converter.py with the name of your script, input_folder with the path to the folder containing input images, and output_folder with the path to the folder where the converted images will be saved.
 
 #### For example:
 `python image_converter.py input_images/ output_images/`
